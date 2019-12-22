@@ -1,0 +1,17 @@
+<view class="cu-card dynamic">
+<view class="cu-item shadow">
+<view class="container">
+<image src="cloud://test-dtpzo.7465-test-dtpzo-1300274363/图片2.png"></image>
+<text>{{contents}}</text>
+<text class="same">1.重量：</text>
+<text>{{content1s}}</text>
+<text class="same">2.持续紧张：</text>
+<text>{{content2s}}</text>
+<text class="same">3.仰卧起坐：</text>
+<text>{{content3s}}</text>
+<text class="same">4.翘腿仰卧起坐：</text>
+<text>{{content4s}}</text>
+<text class="same">5.平板支撑：</text>
+</view>
+</view>
+</view>

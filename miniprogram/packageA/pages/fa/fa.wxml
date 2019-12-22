@@ -1,0 +1,23 @@
+<view class="cu-card dynamic">
+<view class="cu-item shadow">
+<view class="container">
+<text class="text">瘦脸</text>
+<image src="cloud://test-dtpzo.7465-test-dtpzo-1300274363/图片8.png"></image>
+<text class="text">食指刮脸法</text>
+<text>{{contents}}</text>
+<image src="cloud://test-dtpzo.7465-test-dtpzo-1300274363/图片9.png"></image>
+<text class="text">面部画圈操</text>
+<text>{{content1s}}</text>
+<image src="cloud://test-dtpzo.7465-test-dtpzo-1300274363/图片10.png"></image>
+<text class="text">拇指刮法</text>
+<text>{{content2s}}</text>
+<image src="cloud://test-dtpzo.7465-test-dtpzo-1300274363/图片11.png"></image>
+<text class="text">掌心推脸法</text>
+<text>{{content3s}}</text>
+<image src="cloud://test-dtpzo.7465-test-dtpzo-1300274363/图片12.png"></image>
+<text class="text">扇形推法</text>
+<text>{{content4s}}</text>
+</view>
+</view>
+</view>
+

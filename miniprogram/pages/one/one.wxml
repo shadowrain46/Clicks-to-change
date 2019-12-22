@@ -1,0 +1,7 @@
+<view>
+<image class="xiong" bindtap="jian" src="/images/5.gif"></image>
+</view>
+
+<view>
+<image class="qie" bindtap="lose" src="/images/4.gif"></image>
+</view>

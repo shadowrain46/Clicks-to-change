@@ -1,0 +1,25 @@
+<view class="cu-card dynamic">
+<view class="cu-item shadow">
+<view class="container">
+<image src="cloud://test-dtpzo.7465-test-dtpzo-1300274363/图片24.png"></image>
+<text class="text">双腿靠墙倒立</text>
+<text>{{contents}}</text>
+<image src="cloud://test-dtpzo.7465-test-dtpzo-1300274363/图片25.png"></image>
+<text class="text">空中自行车</text>
+<text>{{content1s}}</text>
+<image src="cloud://test-dtpzo.7465-test-dtpzo-1300274363/图片26.png"></image>
+<text class="text">仰卧抬腿</text>
+<text>{{content2s}}</text>
+<image src="cloud://test-dtpzo.7465-test-dtpzo-1300274363/图片27.png"></image>
+<text class="text">静态臀桥</text>
+<text>{{content3s}}</text>
+<image src="cloud://test-dtpzo.7465-test-dtpzo-1300274363/图片28.png"></image>
+<text class="text">臀腿拉伸</text>
+<text>{{content4s}}</text>
+<image src="cloud://test-dtpzo.7465-test-dtpzo-1300274363/图片29.png"></image>
+<text class="text">腹部拉伸</text>
+<text>{{content5s}}</text>
+</view>
+</view>
+</view>
+

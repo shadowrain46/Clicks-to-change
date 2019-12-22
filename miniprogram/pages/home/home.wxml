@@ -1,0 +1,105 @@
+<view class="cu-card dynamic">
+<view class="cu-item shadow">
+<view class="title">想健哪里点哪里 </view>
+<view >
+<image src="/images/only.jpg">add the botton</image>
+</view>
+<scroll-view scroll-x scroll-y>
+</scroll-view>
+<view class="absolute1"bindtap="absolute1">
+<button size='mini'
+type='primary'
+plain='true'
+loasing='true'
+form-type='submit'
+hover-start-time='100'
+hover-stay-time="500"
+hover-class="btn_style"
+top='2'>1</button>
+</view> 
+<view class="absolute2"bindtap="absolute2">
+<button size='mini'
+type='primary'
+plain='true'
+form-type='submit'
+loasing='true'
+hover-start-time='100'
+hover-stay-time="500"
+hover-class="btn_style"
+top='2'>2</button>
+</view> 
+<view class="absolute3"bindtap="absolute3">
+<button size='mini'
+type='primary'
+plain='true'
+loasing='true'
+form-type='submit'
+hover-start-time='100'
+hover-stay-time="500"
+hover-class="btn_style"
+top='2'>3</button>
+</view> 
+<view class="absolute4"bindtap="absolute4">
+<button size='mini'
+type='primary'
+plain='true'
+loasing='true'
+form-type='submit'
+hover-start-time='100'
+hover-stay-time="500"
+hover-class="btn_style"
+top='2'>4</button>
+</view> 
+<view class="absolute5"bindtap="absolute5">
+<button size='mini'
+type='primary'
+plain='true'
+loasing='true'
+form-type='submit'
+hover-start-time='100'
+hover-stay-time="500"
+hover-class="btn_style"
+top='2'>5</button>
+</view>
+<view class="absolute6"bindtap="absolute6">
+<button size='mini'
+type='primary'
+plain='true'
+loasing='true'
+form-type='submit'
+hover-start-time='100'
+hover-stay-time="500"
+hover-class="btn_style" 
+top='2'>6</button>
+</view>
+<view class="absolute7"bindtap="absolute7">
+<button size='mini'
+type='primary'
+plain='true'
+loasing='true'
+form-type='submit'
+hover-start-time='100'
+hover-stay-time="500"
+hover-class="btn_style" 
+top='2'>7</button>
+</view>
+<view class="absolute8"bindtap="absolute8">
+<button size='mini'
+type='primary'
+plain='true'
+loasing='true'
+form-type='submit'
+hover-start-time='100'
+hover-stay-time="500"
+hover-class="btn_style" 
+top='2'>8</button>
+</view>
+<view class="absolute9"bindtap="absolute9">
+<button size='mini' type='primary' plain='true' loasing='true' form-type='submit'
+hover-start-time='100'
+hover-stay-time="500"
+hover-class="btn_style" 
+top='2'>9</button>
+</view>
+</view>
+</view>

@@ -1,0 +1,17 @@
+.container{
+  display: flex;
+  flex-direction: column
+}
+.duan{
+  color: red;
+  font-size:27px;
+  font-weight: bold;
+}
+.same{
+  color:lightsalmon;
+  font-size:20px;
+  font-weight:bold;
+}
+.pic{
+  top:5px;
+}

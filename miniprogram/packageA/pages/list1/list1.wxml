@@ -1,0 +1,14 @@
+<view class="cu-card dynamic">
+<view class="cu-item shadow">
+<view class="container">
+<image src="cloud://test-dtpzo.7465-test-dtpzo-1300274363/图片1.png" class="pic"></image>
+<text class="duan">锻炼方法</text>
+<text class="same">杠铃推举(卧推)</text>
+
+<text>{{contents}}</text>
+<text class="same">卧推举的呼吸：</text>
+<text>{{content1s}}</text>
+</view>
+</view>
+</view>
+

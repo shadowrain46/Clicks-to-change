@@ -1,0 +1,13 @@
+<view class="cu-card dynamic">
+<view class="cu-item shadow">
+<view class="container">
+<image src="cloud://test-dtpzo.7465-test-dtpzo-1300274363/图片7.png" class="pic"></image>
+<text class="same">1、提踵练习</text>
+<text>{{contents}}</text>
+<text class="same">2、脚部夹球上踢练习</text>
+<text>{{content1s}}</text>
+<text class="same">3、单脚跳十字</text>
+<text>{{content2s}}</text>
+</view>
+</view>
+</view>

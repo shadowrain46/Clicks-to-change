@@ -1,0 +1,39 @@
+.clicks{
+  height:320px;
+  width:420px
+}
+.userinfo-nickname{
+  color: red; 
+}
+
+.userinfo{
+  position: absolute;
+  top:350px;
+
+  border-radius: 100%
+}
+.enter{
+  color: blue
+}
+.cute{
+  height: 100px;
+  width: 100px;
+  position: absolute;
+
+  bottom: 100rpx
+}
+.cute2{
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  left: 280rpx;
+  bottom: 100rpx
+}
+.cute3{
+  height: 100px;
+  width: 100px;
+  position: absolute;
+right: 0px;
+  bottom: 100rpx
+}
+

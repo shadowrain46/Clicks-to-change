@@ -1,0 +1,29 @@
+<view class="cu-card dynamic">
+<view class="cu-item shadow">
+<view class="container">
+<image src="cloud://test-dtpzo.7465-test-dtpzo-1300274363/图片13.png"></image>
+<text class="text">动作一</text>
+<text>{{contents}}</text>
+<image src="cloud://test-dtpzo.7465-test-dtpzo-1300274363/图片14.png"></image>
+<text class="text">动作二</text>
+<text>{{content1s}}</text>
+<image src="cloud://test-dtpzo.7465-test-dtpzo-1300274363/图片15.png"></image>
+<text class="text">动作三</text>
+<text>{{content2s}}</text>
+<image src="cloud://test-dtpzo.7465-test-dtpzo-1300274363/图片16.png"></image>
+<text class="text">动作四</text>
+<text>{{content3s}}</text>
+<image src="cloud://test-dtpzo.7465-test-dtpzo-1300274363/图片17.png"></image>
+<text class="text">动作五</text>
+<text>{{content4s}}</text>
+<image src="cloud://test-dtpzo.7465-test-dtpzo-1300274363/图片18.png"></image>
+<text class="text">动作六</text>
+<text>{{content5s}}</text>
+</view>
+</view>
+</view>
+
+
+
+
+

@@ -1,0 +1,65 @@
+.pic {
+  margin-top: 50rpx;
+  height:1200rpx;
+  width: 100%;
+  border-left: 1px;
+  border-right: 1px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  transition: all 300ms ease;
+}
+
+.title{
+color:rgb(118, 198, 212);
+font-size:46px;
+text-align: center;
+}
+
+.fac{
+position: absolute;
+top: 210px;
+left:190px;
+}
+
+.arm1{
+position: absolute;
+top:280px;
+left: 130px;
+}
+
+.arm2{
+position: absolute;
+top:280px;
+left:210px;
+}
+
+.tum{
+position: absolute;
+top:320px;
+left:160px;
+}
+
+.thi1{
+position: absolute;
+top:420px;
+left:150px;
+}
+
+.thi2{
+position: absolute;
+top:420px;
+left:200px;
+}
+
+.sha1{
+position: absolute;
+top:500px;
+left:200px;
+}
+
+.sha2{
+position: absolute;
+top:500px;
+left:150px;
+}

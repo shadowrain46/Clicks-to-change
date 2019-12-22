@@ -1,0 +1,57 @@
+.title{
+color:rgb(118, 198, 212);
+font-size:47px;
+text-align: center;
+}
+
+image{
+height: 1000rpx;
+width: 100%;
+display: block;
+} 
+
+.absolute1{
+position: absolute;
+top: 450rpx;
+left: 250rpx; 
+}
+.absolute2{
+position: absolute;
+top: 450rpx;
+left: 370rpx;
+}
+.absolute3{
+position: absolute;
+top: 630rpx;
+left: 295rpx;
+}
+.absolute4{
+position: absolute;
+top: 520rpx;
+left: 120rpx;
+}
+.absolute5{
+position: absolute;
+top: 570rpx;
+left: 520rpx;
+}
+.absolute6{
+position: absolute;
+top: 850rpx;
+left: 250rpx;
+}
+.absolute7{
+position: absolute;
+top: 830rpx;
+left: 400rpx;
+}
+.absolute8{
+position: absolute;
+top: 1030rpx;
+left: 260rpx;
+}
+.absolute9{
+position: absolute;
+top: 1030rpx;
+left: 355rpx;
+}

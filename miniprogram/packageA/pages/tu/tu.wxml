@@ -1,0 +1,23 @@
+<view class="cu-card dynamic">
+<view class="cu-item shadow">
+<view class="container">
+<image src="cloud://test-dtpzo.7465-test-dtpzo-1300274363/图片19.png"></image>
+<text class="text">卷腹</text>
+<text>{{contents}}</text>
+<image src="cloud://test-dtpzo.7465-test-dtpzo-1300274363/图片20.png"></image>
+<text class="text">仰卧交叉转体</text>
+<text>{{content1s}}</text>
+<image src="cloud://test-dtpzo.7465-test-dtpzo-1300274363/图片21.png"></image>
+<text class="text">仰卧抬腿</text>
+<text>{{content2s}}</text>
+<image src="cloud://test-dtpzo.7465-test-dtpzo-1300274363/图片22.png"></image>
+<text class="text">摸膝卷腹</text>
+<text>{{content3s}}</text>
+<image src="cloud://test-dtpzo.7465-test-dtpzo-1300274363/图片23.png"></image>
+<text class="text">腹部拉伸</text>
+<text>{{content4s}}</text>
+</view>
+</view>
+</view>
+
+

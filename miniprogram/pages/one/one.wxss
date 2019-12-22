@@ -1,0 +1,12 @@
+.xiong {
+width: 375px;
+height: 360px;
+border-radius: 60%;
+left: 20px;
+}
+.qie {
+width: 375px;
+height: 360px;
+border-radius: 60%;
+left: 20px;
+}

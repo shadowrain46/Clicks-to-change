@@ -1,0 +1,18 @@
+<view class="cu-card dynamic">
+<view class="cu-item shadow">
+<view class="container">
+<image src="cloud://test-dtpzo.7465-test-dtpzo-1300274363/图片3.png" class="pic"></image>
+<text>{{contents}}</text>
+<text class="same">1.高训练量</text>
+<text>{{content1s}}</text>
+<text class="same">2.经常打乱训练次序</text>
+<text>{{content2s}}</text>
+<text class="same">3.哑铃弯举</text>
+<text>{{content3s}}</text>
+<text class="same">4.斜板弯举</text>
+<text>{{content4s}}</text>
+<text class="same">5.杠铃弯举</text>
+</view>
+</view>
+</view>
+

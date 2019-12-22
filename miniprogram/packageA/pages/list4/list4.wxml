@@ -1,0 +1,18 @@
+<view class="cu-card dynamic">
+<view class="cu-item shadow">
+<view class="container">
+<text class="same">1.直腿硬拉：</text>
+<text>{{contents}}</text>
+<text class="same">2.坐姿腿弯举：</text>
+<image src="cloud://test-dtpzo.7465-test-dtpzo-1300274363/图片4.png"></image>
+<text>{{content1s}}</text>
+<text class="same">3.站姿腿弯举：</text>
+<image src="cloud://test-dtpzo.7465-test-dtpzo-1300274363/图片5.png"></image>
+<text>{{content2s}}</text>
+<text class="same">4.俯卧腿弯举：</text>
+<image src="cloud://test-dtpzo.7465-test-dtpzo-1300274363/图片6.png"></image>
+<text>{{content3s}}</text>
+</view>
+</view>
+</view>
+

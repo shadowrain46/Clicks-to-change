@@ -1,0 +1,16 @@
+<view class="cu-card dynamic">
+<view class="cu-item shadow">
+<view class="title">想瘦哪里点哪里 </view>
+<image src="/images/2.png" class="pic"></image>
+<view>
+<button bindtap="fa" class="fac" size='mini' plain='true'>1</button>
+<button bindtap="ar" class="arm2" size='mini' plain='true'>2</button>
+<button bindtap="ar" class="arm1" size='mini' plain='true'>2</button>
+<button bindtap="tu" class="tum" size='mini' plain='true'>3</button>
+<button bindtap="th" class="thi1" size='mini' plain='true'>4</button>
+<button bindtap="sh" class="sha1" size='mini' plain='true'>5</button>
+<button bindtap="th" class="thi2" size='mini' plain='true'>4</button>
+<button bindtap="sh" class="sha2" size='mini' plain='true'>5</button>
+</view>
+</view>
+</view>

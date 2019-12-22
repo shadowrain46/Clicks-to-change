@@ -1,0 +1,19 @@
+<view>
+<image src="/images/images1.jpg" class="clicks"></image>
+</view>
+
+  <view class="userinfo">
+    <button class="button" wx:if="{{!hasUserInfo && canIUse}}" open-type="getUserInfo" bindgetuserinfo="getUserInfo"> 获取头像昵称 </button>
+    <block wx:else>
+      <image class="userinfo-avatar" src="{{userInfo.avatarUrl}}" mode="cover"></image>
+      <view class="userinfo-nickname">{{userInfo.nickName}}</view>
+      <button class="enter" bindtap="bindViewTap">Enter</button>
+    </block>
+  </view>
+  <view>
+  <image class="cute" src="/images/cute.png"></image>
+  <image class="cute2" src="/images/cute2.png"></image>
+  <image class="cute3" src="/images/cute3.png"></image>
+  </view>
+
+

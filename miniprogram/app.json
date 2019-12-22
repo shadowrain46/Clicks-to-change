@@ -1,0 +1,59 @@
+{
+  "pages": [
+    "pages/login/login",
+    "pages/home/home",
+    "pages/test/test",
+    "pages/one/one",
+    "pages/weekly/weekly"
+    ],
+  "subPackages": [
+    {
+    	 "root": "packageA",
+   		 "pages": [
+          "pages/im/im",
+          "pages/im/room/room",
+          "pages/list1/list1",
+          "pages/list2/list2",
+          "pages/list3/list3",
+          "pages/list4/list4",
+          "pages/list5/list5",
+          "pages/fa/fa",
+          "pages/ar/ar",
+          "pages/tu/tu",
+          "pages/th/th",
+          "pages/sh/sh"
+      ]
+    }
+  ],
+  "window": {
+    "backgroundColor": "Yellow",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#FAE8D7",
+    "navigationBarTitleText": "Clicks to change",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/login/login",
+        "text": "我的",
+        "iconPath": "/images/icon3.png",
+        "selectedIconPath": "/images/icon3.png"
+      },
+      {
+        "pagePath": "pages/one/one",
+        "text": "主页",
+        "iconPath": "/images/icon2.jpg",
+        "selectedIconPath": "/images/icon2.jpg"
+      },
+      {
+        "pagePath": "pages/weekly/weekly",
+        "text": "周报",
+        "iconPath": "/images/icon1.png",
+        "selectedIconPath": "/images/icon1.png"
+      }
+    ]
+  },
+ 
+  "sitemapLocation": "sitemap91.json"
+}
